@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>About me</title>
-    <url>/2023/06/29/about/</url>
-    <content><![CDATA[<blockquote>
-<p>a stduent , a learner</p>
-</blockquote>
-<p>也许你认识我？(●’◡’●)</p>
-<p>既然到了这里，不如听听我准备的音乐，看看这些图片，玩一玩那些网站。</p>
-<p>还有这里的文章都很有意思哦！:D</p>
-]]></content>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>black_sheep</title>
     <url>/2023/06/29/black-sheep/</url>
     <content><![CDATA[<h2 id="《黑羊》-卡尔维诺"><a href="#《黑羊》-卡尔维诺" class="headerlink" title="《黑羊》 卡尔维诺"></a>《黑羊》 卡尔维诺</h2><p>从前有个国家，里面人人是贼。</p>
@@ -31,6 +17,94 @@
 <p>有些人富裕得已经根本无须亲自行窃或雇人行窃就可保持富有。但一旦他们停止行窃的话，他们就会变穷，因为穷人会偷他们。因此他们又雇了穷人中的最穷者来帮助他们看守财富，以免遭穷人行窃，这就意味着要建立警察局和监狱。</p>
 <p>因此，在那个诚实人出现后没几年，人们就不再谈什么偷盗或被偷盗了，而只说穷人和富人；但他们个个都还是贼。</p>
 <p>惟一诚实的只有那个诚实的人，但他不久便死了，是饿死的。</p>
+]]></content>
+      <categories>
+        <category>集文</category>
+      </categories>
+      <tags>
+        <tag>外国文学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/06/29/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>hello_blog</title>
+    <url>/2023/06/29/hello-blog/</url>
+    <content><![CDATA[<p> 这是一篇测试博客！</p>
+]]></content>
+      <tags>
+        <tag>开心</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About me</title>
+    <url>/2023/06/29/about/</url>
+    <content><![CDATA[<blockquote>
+<p>a stduent , a learner</p>
+</blockquote>
+<p>也许你认识我？(●’◡’●)</p>
+<p>既然到了这里，不如听听我准备的音乐，看看这些图片，玩一玩那些网站。</p>
+<p>还有这里的文章都很有意思哦！:D</p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>花园茶会</title>
+    <url>/2023/06/29/%E8%8A%B1%E5%9B%AD%E8%8C%B6%E4%BC%9A/</url>
+    <content><![CDATA[<h2 id="花园茶会"><a href="#花园茶会" class="headerlink" title="花园茶会"></a>花园茶会</h2><p> [英]凯瑟琳·曼斯菲尔德</p>
+<p> 这真是个让人称心如意的好天气，晴朗的天空没有一片云朵。清晨，花匠早早地起来修剪草坪，把草坪打扫干净。就像得到了大天使的帮助，一夜之间，花园里上百朵玫瑰绽开了花苞，压得绿色的花枝弯曲下来。</p>
+<p> “我们去花园看看吧，从后门出去，”劳拉对琼斯说，“我想知道凉棚搭好了没有。”</p>
+<p> 但是后门不能通过了，厨子和送蛋糕的人挡在那里。</p>
+<p> “怎么了？”</p>
+<p> “小姐，对面的斜坡下面有一些简陋的小房子，你知道吗？有个赶马车的小伙子住在那儿，他姓斯各特。今天早晨，牵引车把他的马吓着了，受了惊的马把他摔下来，他的头撞到了地上，没命了。”送蛋糕的人饶有兴致地讲着。</p>
+<p> “他死了？”劳拉瞪大了眼睛。</p>
+<p> “被抬起来的时候就死了，我到这里送蛋糕时，看见他们家的人正把他抬回去。他家里还有老婆和五个孩子。”</p>
+<p> 劳拉抓住琼斯的手臂，神色惊慌地说：“我们怎样才能把它给取消了呢？现在我就到楼上去和妈妈谈谈。”</p>
+<p> 希恩太太正在试她的新帽子。劳拉气喘吁吁地告诉了母亲那个不幸的消息。</p>
+<p> “我们的茶会必须取消了，是吗？客人和乐队一来，就会被他们家听到，他们离我们太近了。”</p>
+<p> 劳拉没有想到母亲并不同意。“我的孩子，你应该合情合理地想一想。我们是在无意中知道这件事的。你回答我，如果那些小房子里有人生病死掉，我们不是也要照常过我们的生活吗？”</p>
+<p> “妈妈，我们这样做是不是太冷酷了？”</p>
+<p> “宝贝儿！”希恩太太拿着那顶帽子走过来，劳拉还来不及阻止，她就把手里的帽子戴在劳拉头上了，“好孩子，这顶帽子你戴正合适，简直是给你做的。我戴着有些太年轻了。你自己好好看一看，你有多漂亮！”她把小镜子举到劳拉面前。</p>
+<p> “不，妈妈！”劳拉没有妥协的意思，她把脸转到一边。</p>
+<p> “劳拉，你这样就太让人失望了。”希恩太太冷冷地说。</p>
+<p> “我实在不明白。”劳拉站起来走了，她回到自己的卧室。一进门，就在镜子里看到一个漂亮迷人的姑娘，头上那顶装饰着金色野菊花的黑色帽子上，有一条长长的黑丝绒带子垂下来。她从来没有想到，自己竟然这样好看。她疑惑了，难道母亲说的没错？可是她又好像看见那个带着一群小孩，把丈夫的尸体抬回家的不幸女人。她决定等园会结束后再去考虑这件事。</p>
+<p> 随后受到邀请的客人们都先后到来了。乐队开始演奏。仆人都从房子里出来，走到凉棚下。草坪上有很多的客人在悠闲地漫步，一群朋友欢聚在一起，相互拉手、亲吻，开心地笑，真是太愉快了！</p>
+<p> “姑娘，这帽子可真合适！”</p>
+<p> “劳拉，你今天怎么格外漂亮啊？简直像个西班牙女郎。”</p>
+<p> 这个美好的下午像鲜花一样，怒放之后又慢慢合上花瓣。</p>
+<p> 所有的客人都告辞了，希恩太太看见桌子上还有许多吃剩的蛋糕、点心和三明治，不吃掉都会变质的。她又有了一个出色的念头。“我们装个篮子，把这些完全是好好的食物送给那可怜人。不管怎样，孩子们可以大吃一顿了。你们同意吗？而且一定会有邻居去看她，这么多的现成的点心该多好。劳拉！”她高兴地要跳起来，“到贮藏室把那个最大的篮子拿来。”</p>
+<p> “妈妈，我们这样做恐怕不太合适吧？”劳拉说。她想，那个女人会愿意接受这些吃剩的东西吗？</p>
+<p> “有什么不合适的！你到底怎么回事？”劳拉赶紧把篮子拿来。母亲把东西都塞到篮子里。“你给她送过去吧，就这样去，不必换衣服了。”</p>
+<p> 这时候天色已经发暗了，在一个喧闹的下午过后，傍晚变得一片寂静。</p>
+<p> 她横穿过街道，走进狭窄的小巷。她低着头加快了脚步，头上那顶有丝绒带子的大帽子真是引人注意，实在不该戴来！算了，既然已经来了。就是这里，到了，没错。</p>
+<p> 劳拉感到异常紧张，真希望马上离开这儿！她走过去敲了敲门。</p>
+<p> 门开了，一个穿着丧服的小个女人出现在门口。女人说：“请进，小姐。”</p>
+<p> “噢，不，”劳拉说，“我是来送东西的……”那个小个女人好像对她的话充耳不闻。“请走这边，小姐。”</p>
+<p> 劳拉发现自己到了一个破旧、狭小、低矮的厨房，里面点着一盏冒烟的灯。火炉旁坐着一个女人。她的脸浮肿而红胀，眼睛和嘴唇都肿着，看上去很可怕。劳拉只盼望尽快离开这里。她又走到走廊里，推开门就向前走，没想到走进了卧室，尸体就放在这里。</p>
+<p> 一个年轻男人躺在那里，正在酣睡——睡得这样熟，这样深，他的头沉沉地陷在枕头里，眼睛安静地闭着，这双闭着的眼睛再也看不见任何东西了。他完全进入了另一个世界。那些茶会，篮子，装饰着花边的裙子，和他又有什么关系呢？</p>
+<p> 眼泪总是忍不住要流。她是不能一言不发就走开的，于是她大声地哭了一声，像一个小孩子。</p>
+<p> “请原谅我这顶帽子。”她说。</p>
+<p> 她没有等小个女人给她带路，自己摸索到门，走出去了。走到小巷口的时候她看到了劳瑞。</p>
+<p> “你没事吧？妈妈很着急。”</p>
+<p> “我没事。哦，劳瑞，我的哥哥！”她一下抓住他的手臂，紧紧地靠住他。“哥哥……”她抬头看着劳瑞，“你说，人生是不是，”她又说，“人生是不是——”可是，她又说不出来了。</p>
 ]]></content>
       <categories>
         <category>集文</category>
@@ -82,80 +156,6 @@
       </categories>
       <tags>
         <tag>诗歌</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>花园茶会</title>
-    <url>/2023/06/29/%E8%8A%B1%E5%9B%AD%E8%8C%B6%E4%BC%9A/</url>
-    <content><![CDATA[<h2 id="花园茶会"><a href="#花园茶会" class="headerlink" title="花园茶会"></a>花园茶会</h2><p> [英]凯瑟琳·曼斯菲尔德</p>
-<p> 这真是个让人称心如意的好天气，晴朗的天空没有一片云朵。清晨，花匠早早地起来修剪草坪，把草坪打扫干净。就像得到了大天使的帮助，一夜之间，花园里上百朵玫瑰绽开了花苞，压得绿色的花枝弯曲下来。</p>
-<p> “我们去花园看看吧，从后门出去，”劳拉对琼斯说，“我想知道凉棚搭好了没有。”</p>
-<p> 但是后门不能通过了，厨子和送蛋糕的人挡在那里。</p>
-<p> “怎么了？”</p>
-<p> “小姐，对面的斜坡下面有一些简陋的小房子，你知道吗？有个赶马车的小伙子住在那儿，他姓斯各特。今天早晨，牵引车把他的马吓着了，受了惊的马把他摔下来，他的头撞到了地上，没命了。”送蛋糕的人饶有兴致地讲着。</p>
-<p> “他死了？”劳拉瞪大了眼睛。</p>
-<p> “被抬起来的时候就死了，我到这里送蛋糕时，看见他们家的人正把他抬回去。他家里还有老婆和五个孩子。”</p>
-<p> 劳拉抓住琼斯的手臂，神色惊慌地说：“我们怎样才能把它给取消了呢？现在我就到楼上去和妈妈谈谈。”</p>
-<p> 希恩太太正在试她的新帽子。劳拉气喘吁吁地告诉了母亲那个不幸的消息。</p>
-<p> “我们的茶会必须取消了，是吗？客人和乐队一来，就会被他们家听到，他们离我们太近了。”</p>
-<p> 劳拉没有想到母亲并不同意。“我的孩子，你应该合情合理地想一想。我们是在无意中知道这件事的。你回答我，如果那些小房子里有人生病死掉，我们不是也要照常过我们的生活吗？”</p>
-<p> “妈妈，我们这样做是不是太冷酷了？”</p>
-<p> “宝贝儿！”希恩太太拿着那顶帽子走过来，劳拉还来不及阻止，她就把手里的帽子戴在劳拉头上了，“好孩子，这顶帽子你戴正合适，简直是给你做的。我戴着有些太年轻了。你自己好好看一看，你有多漂亮！”她把小镜子举到劳拉面前。</p>
-<p> “不，妈妈！”劳拉没有妥协的意思，她把脸转到一边。</p>
-<p> “劳拉，你这样就太让人失望了。”希恩太太冷冷地说。</p>
-<p> “我实在不明白。”劳拉站起来走了，她回到自己的卧室。一进门，就在镜子里看到一个漂亮迷人的姑娘，头上那顶装饰着金色野菊花的黑色帽子上，有一条长长的黑丝绒带子垂下来。她从来没有想到，自己竟然这样好看。她疑惑了，难道母亲说的没错？可是她又好像看见那个带着一群小孩，把丈夫的尸体抬回家的不幸女人。她决定等园会结束后再去考虑这件事。</p>
-<p> 随后受到邀请的客人们都先后到来了。乐队开始演奏。仆人都从房子里出来，走到凉棚下。草坪上有很多的客人在悠闲地漫步，一群朋友欢聚在一起，相互拉手、亲吻，开心地笑，真是太愉快了！</p>
-<p> “姑娘，这帽子可真合适！”</p>
-<p> “劳拉，你今天怎么格外漂亮啊？简直像个西班牙女郎。”</p>
-<p> 这个美好的下午像鲜花一样，怒放之后又慢慢合上花瓣。</p>
-<p> 所有的客人都告辞了，希恩太太看见桌子上还有许多吃剩的蛋糕、点心和三明治，不吃掉都会变质的。她又有了一个出色的念头。“我们装个篮子，把这些完全是好好的食物送给那可怜人。不管怎样，孩子们可以大吃一顿了。你们同意吗？而且一定会有邻居去看她，这么多的现成的点心该多好。劳拉！”她高兴地要跳起来，“到贮藏室把那个最大的篮子拿来。”</p>
-<p> “妈妈，我们这样做恐怕不太合适吧？”劳拉说。她想，那个女人会愿意接受这些吃剩的东西吗？</p>
-<p> “有什么不合适的！你到底怎么回事？”劳拉赶紧把篮子拿来。母亲把东西都塞到篮子里。“你给她送过去吧，就这样去，不必换衣服了。”</p>
-<p> 这时候天色已经发暗了，在一个喧闹的下午过后，傍晚变得一片寂静。</p>
-<p> 她横穿过街道，走进狭窄的小巷。她低着头加快了脚步，头上那顶有丝绒带子的大帽子真是引人注意，实在不该戴来！算了，既然已经来了。就是这里，到了，没错。</p>
-<p> 劳拉感到异常紧张，真希望马上离开这儿！她走过去敲了敲门。</p>
-<p> 门开了，一个穿着丧服的小个女人出现在门口。女人说：“请进，小姐。”</p>
-<p> “噢，不，”劳拉说，“我是来送东西的……”那个小个女人好像对她的话充耳不闻。“请走这边，小姐。”</p>
-<p> 劳拉发现自己到了一个破旧、狭小、低矮的厨房，里面点着一盏冒烟的灯。火炉旁坐着一个女人。她的脸浮肿而红胀，眼睛和嘴唇都肿着，看上去很可怕。劳拉只盼望尽快离开这里。她又走到走廊里，推开门就向前走，没想到走进了卧室，尸体就放在这里。</p>
-<p> 一个年轻男人躺在那里，正在酣睡——睡得这样熟，这样深，他的头沉沉地陷在枕头里，眼睛安静地闭着，这双闭着的眼睛再也看不见任何东西了。他完全进入了另一个世界。那些茶会，篮子，装饰着花边的裙子，和他又有什么关系呢？</p>
-<p> 眼泪总是忍不住要流。她是不能一言不发就走开的，于是她大声地哭了一声，像一个小孩子。</p>
-<p> “请原谅我这顶帽子。”她说。</p>
-<p> 她没有等小个女人给她带路，自己摸索到门，走出去了。走到小巷口的时候她看到了劳瑞。</p>
-<p> “你没事吧？妈妈很着急。”</p>
-<p> “我没事。哦，劳瑞，我的哥哥！”她一下抓住他的手臂，紧紧地靠住他。“哥哥……”她抬头看着劳瑞，“你说，人生是不是，”她又说，“人生是不是——”可是，她又说不出来了。</p>
-]]></content>
-      <categories>
-        <category>集文</category>
-      </categories>
-      <tags>
-        <tag>外国文学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/06/29/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>hello_blog</title>
-    <url>/2023/06/29/hello-blog/</url>
-    <content><![CDATA[<p> 这是一篇测试博客！</p>
-]]></content>
-      <tags>
-        <tag>开心</tag>
       </tags>
   </entry>
 </search>
