@@ -15,6 +15,15 @@
       </tags>
   </entry>
   <entry>
+    <title>hello_blog</title>
+    <url>/2023/06/29/hello-blog/</url>
+    <content><![CDATA[<p> 这是一篇测试博客！</p>
+]]></content>
+      <tags>
+        <tag>开心</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>black_sheep</title>
     <url>/2023/06/29/black-sheep/</url>
     <content><![CDATA[<h2 id="《黑羊》-卡尔维诺"><a href="#《黑羊》-卡尔维诺" class="headerlink" title="《黑羊》 卡尔维诺"></a>《黑羊》 卡尔维诺</h2><p>从前有个国家，里面人人是贼。</p>
@@ -37,15 +46,6 @@
       </categories>
       <tags>
         <tag>外国文学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hello_blog</title>
-    <url>/2023/06/29/hello-blog/</url>
-    <content><![CDATA[<p> 这是一篇测试博客！</p>
-]]></content>
-      <tags>
-        <tag>开心</tag>
       </tags>
   </entry>
   <entry>
