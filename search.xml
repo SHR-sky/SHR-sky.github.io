@@ -89,7 +89,7 @@
 <h3 id="配置构建任务"><a href="#配置构建任务" class="headerlink" title="配置构建任务"></a>配置构建任务</h3><p>1、同样 <strong>Ctrl+Shift+P</strong> 调出命令面板，输入 <strong>tasks</strong> ，选择 <strong>Tasks:Configure Default Build Task</strong></p>
 <p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/941fefadcd1ab7516cddea09db06bf93.png" alt="在这里插入图片描述"></p>
 <p>2、继续选择 <strong>C&#x2F;C++: g++.exe 生成活动文件</strong>，此时会生成 <strong>hello.exe文件</strong></p>
-<p><img src="https://i-blog.csdnimg.cn/blog_migrate/3d305c24ead2fe5e27e3b8d2fe2c8ada.png" alt="在这里插入图片描述"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/3d305c24ead2fe5e27e3b8d2fe2c8ada.png" alt="在这里插入图片描述"></p>
 <p>此时，生成一个名为 <strong>tasks.json</strong> 的配置文件，具体内容如下</p>
 <p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/3924ada60c937d622b088c7e29bf02d5.png" alt="在这里插入图片描述"></p>
 <h3 id="配置调试设置"><a href="#配置调试设置" class="headerlink" title="配置调试设置"></a>配置调试设置</h3><p>选择 <strong>运行 - 添加配置</strong><br><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/0eef68e0959053d3cbe884a5a30d61b1.png" alt="在这里插入图片描述"></p>
