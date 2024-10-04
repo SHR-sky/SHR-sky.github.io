@@ -104,7 +104,7 @@
 <h4 id="CubeMX-官网下载"><a href="#CubeMX-官网下载" class="headerlink" title="CubeMX 官网下载"></a>CubeMX 官网下载</h4><p>    下载地址： <a href="https://www.st.com/stm32cubemx">官网下载地址</a><br>    下载方法： 注册帐号先</p>
 <ol>
 <li>打开官网下载地址，点击 <strong>获取软件</strong>；<br><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/34afcbf602ba96bdd03475424b986939.png" alt="2.2_1"></li>
-<li>选择对应的版本进行下载。（需要登陆账号，其中 <strong>Linux</strong> 和 <strong>MacOS</strong> 的配置文件和 <strong>Windows</strong> 安装包在同一个文件中）<br><img src="https://i-blog.csdnimg.cn/blog_migrate/70b315c7ba931c74c7d6504f6dbe8a7d.png#pic_center" alt="2.2_2"><br><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/327c90dd04b02cce5955c5e726dd095d.png" alt="2.2_3"></li>
+<li>选择对应的版本进行下载。（需要登陆账号，其中 <strong>Linux</strong> 和 <strong>MacOS</strong> 的配置文件和 <strong>Windows</strong> 安装包在同一个文件中）<br><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/327c90dd04b02cce5955c5e726dd095d.png" alt="2.2_3"></li>
 </ol>
 <h4 id="Java-安装"><a href="#Java-安装" class="headerlink" title="Java 安装"></a>Java 安装</h4><ol>
 <li><p>打开 <strong>jre-8u261-windows-x64.exe</strong> 安装包，勾选<strong>更改目标文件夹</strong>，点击 <strong>安装</strong>；<br><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/dfc127dcabb5c29fe5733da963a8199e.png" alt="3.1_1"></p>
