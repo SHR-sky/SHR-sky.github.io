@@ -151,6 +151,91 @@
     
     
     <article
+  id="post-CP2：第一个工程——流水灯教程"
+  class="article article-type-post"
+  itemscope
+  itemprop="blogPost"
+  data-scroll-reveal
+>
+  <div class="article-inner">
+    
+    <header class="article-header">
+       
+<h2 itemprop="name">
+  <a class="article-title" href="/2024/10/04/CP2%EF%BC%9A%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B7%A5%E7%A8%8B%E2%80%94%E2%80%94%E6%B5%81%E6%B0%B4%E7%81%AF%E6%95%99%E7%A8%8B/"
+    >CP2：第一个工程——流水灯教程</a> 
+</h2>
+ 
+
+      
+    </header>
+     
+    <div class="article-meta">
+      <a href="/2024/10/04/CP2%EF%BC%9A%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B7%A5%E7%A8%8B%E2%80%94%E2%80%94%E6%B5%81%E6%B0%B4%E7%81%AF%E6%95%99%E7%A8%8B/" class="article-date">
+  <time datetime="2024-10-04T13:19:59.000Z" itemprop="datePublished">2024-10-04</time>
+</a> 
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E6%95%99%E7%A8%8B/">教程</a>
+  </div>
+   
+    </div>
+      
+    <div class="article-entry" itemprop="articleBody">
+       
+  <h2 id="新建工程："><a href="#新建工程：" class="headerlink" title="新建工程："></a>新建工程：</h2><p>​    点开来是这样的</p>
+<p>​    这里选择file来点击new project 或者选择 ACCESS TO MCU SELECTOR都可以。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/6b6f0a5be8754f718ab2db14cc92c26b.png" alt="img"></p>
+<p>进来后，先在左上角commerical part number（商业零件号）先填写型号搜寻，再点击对应型号（这里以STM32G431举例），再按右上角的start project</p>
+<p><img src="https://i-blog.csdnimg.cn/direct/55bccc1eeeb24f52810d6b1ccc9dafb3.png" alt="img"></p>
+<p>进去后就进行图形化配置界面了。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/image-20241004212934977.png" alt="image-20241004212934977"></p>
+<h2 id="RCC时钟源"><a href="#RCC时钟源" class="headerlink" title="RCC时钟源"></a>RCC时钟源</h2><p>此时，时钟源选择外部晶振</p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/image-20241004212707981.png" alt="image-20241004212707981"></p>
+<h2 id="时钟树"><a href="#时钟树" class="headerlink" title="时钟树"></a>时钟树</h2><p>然后，就像人需要时钟去控制行为一样。单片机的每一个动作都需要在统一的时钟节拍之下。</p>
+<p>时钟树的配置，就是确定所用时钟。</p>
+<p>初学者如图配置即可，可先不探究原因。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/image-20241004212834165.png" alt="image-20241004212834165"></p>
+<h2 id="调试接口"><a href="#调试接口" class="headerlink" title="调试接口"></a>调试接口</h2><p>然后点击左边列表的sys,选择仿真器，这里我用的是stlink，我就直接选择第二个了。</p>
+<blockquote>
+<p>notice:这里一定要使能仿真器接口。不使能的话，首次烧写程序后下次无法连接！</p>
+</blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/665f80e29de64bfe8a9e8dc59a829153.png" alt="img"></p>
+<h2 id="GPIO"><a href="#GPIO" class="headerlink" title="GPIO"></a>GPIO</h2><p>既然要点亮led，那就要gpio<strong>输出</strong>高低电平去控制灯的亮灭，那我们就在这个对应引脚上选择输出模式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/e3bc25438f2844ffa9258fc31906eae5.png" alt="img"></p>
+<p>然后点击左边的system core选择里面的GPIO，然后对应配置好初始输出电平为低电平（因为流水灯最开始是全灭状态），再改成推挽模式，再把输出速度调至最快。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/e050ba40bd8a45558be27fe6d6a2dab9.png" alt="img"></p>
+<h2 id="生成代码"><a href="#生成代码" class="headerlink" title="生成代码"></a>生成代码</h2><p>在<strong>project manager</strong>选项卡中 project选项编辑工程名，工程位置，在toolchain&#x2F;IDE中选择手使用的IDE工具，此处选择MDK。使用固件版本可以选择也可以使用默认最新版本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/3da13ebc37054f12bcd3272e5510ffc6.png" alt="img"></p>
+<p>在code generator选项中选择copy only the necessary library files，选择generated files中选项，如图所示。</p>
+<p>选择勾选的选项</p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/3d5fc5849d244f23bd77236eca69cf1b.png" alt="img"></p>
+<p>点击生成代码，会弹出弹窗，点击open project会自动打卡MDK软件，至此完成了使用CUBEMX到MDK5的移植。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/765b1d915ea944e5aab5aa3ccc6569b3.png" alt="img"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/2bfcdcface50418e85e9faa356a7a82b.png" alt="img"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/9516a881fbb4424d9707858811ddf7bd.png" alt="img"></p>
+<p>这个时候再点进open project，即可进入keil，开始编写代码了。</p>
+ 
+      <!-- reward -->
+      
+    </div>
+    
+
+    <!-- copyright -->
+    
+    <footer class="article-footer">
+       
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/STI/" rel="tag">STI</a></li></ul>
+
+    </footer>
+  </div>
+
+   
+   
+  
+</article>
+
+    
+    <article
   id="post-CP2：第一个工程——流水灯【基于STM32G431】"
   class="article article-type-post"
   itemscope
@@ -1351,56 +1436,6 @@
     <footer class="article-footer">
        
   <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%A4%96%E5%9B%BD%E6%96%87%E5%AD%A6/" rel="tag">外国文学</a></li></ul>
-
-    </footer>
-  </div>
-
-   
-   
-  
-</article>
-
-    
-    <article
-  id="post-hello-blog"
-  class="article article-type-post"
-  itemscope
-  itemprop="blogPost"
-  data-scroll-reveal
->
-  <div class="article-inner">
-    
-    <header class="article-header">
-       
-<h2 itemprop="name">
-  <a class="article-title" href="/2023/06/29/hello-blog/"
-    >hello_blog</a> 
-</h2>
- 
-
-      
-    </header>
-     
-    <div class="article-meta">
-      <a href="/2023/06/29/hello-blog/" class="article-date">
-  <time datetime="2023-06-29T06:59:52.000Z" itemprop="datePublished">2023-06-29</time>
-</a>    
-    </div>
-      
-    <div class="article-entry" itemprop="articleBody">
-       
-  <p> 这是一篇测试博客！</p>
- 
-      <!-- reward -->
-      
-    </div>
-    
-
-    <!-- copyright -->
-    
-    <footer class="article-footer">
-       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%BC%80%E5%BF%83/" rel="tag">开心</a></li></ul>
 
     </footer>
   </div>
