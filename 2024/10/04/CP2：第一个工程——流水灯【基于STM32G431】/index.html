@@ -86,7 +86,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-quill-pen-line"></i>
             <span class="post-meta-item-text"> 字数统计:</span>
-            <span class="post-count">556</span>
+            <span class="post-count">559</span>
         </span>
     </span>
 
@@ -111,7 +111,7 @@
     <div class="article-entry" itemprop="articleBody">
        
   <h1 id="滑动变阻器可调速度的流水灯"><a href="#滑动变阻器可调速度的流水灯" class="headerlink" title="滑动变阻器可调速度的流水灯"></a>滑动变阻器可调速度的流水灯</h1><blockquote>
-<p>本篇同样是实验报告的示例，所以首先采用报告形式书写，书写了一篇jianliande结尾之后可见教程</p>
+<p>本篇同样是实验报告的示例，所以首先采用报告形式书写，书写了一篇简单的报告，下一篇可见教程</p>
 </blockquote>
 <h2 id="一、方案设计"><a href="#一、方案设计" class="headerlink" title="一、方案设计"></a>一、方案设计</h2><p><img src="https://cdn.jsdelivr.net/gh/SHR-sky/Picture@main/Pic/image-20241004203437596.png" alt="image-20241004203437596"></p>
 <p>​	采用STM32G431作为主控，通过内置ADC模块对滑动变阻器上的分压值就行采集。然后将该电压值归一化为速度百分比，通过该电压值调节流水灯的速度值。并且通过GPIO控制LED灯依次点亮，形成流水灯，并且利用HAL库的延时函数控制流水灯速度。</p>
