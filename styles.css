@@ -131,7 +131,7 @@ h2 { margin: 0; font: 600 clamp(44px, 5.4vw, 78px)/1.04 var(--serif); letter-spa
 .research-grid {
   padding: 0 5vw 130px;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1px;
   color: var(--ink);
   background: var(--paper);
@@ -163,6 +163,12 @@ h2 { margin: 0; font: 600 clamp(44px, 5.4vw, 78px)/1.04 var(--serif); letter-spa
 .map-motif span:nth-child(1) { left: 12%; top: 55%; }.map-motif span:nth-child(2) { left: 45%; top: 18%; }.map-motif span:nth-child(3) { right: 16%; top: 48%; }.map-motif span:nth-child(4) { left: 56%; bottom: 6%; }
 .matrix-motif { position: absolute; top: 85px; left: 50%; width: 190px; height: 190px; transform: translateX(-50%) rotate(45deg); background: repeating-linear-gradient(0deg, transparent 0 22px, rgba(86,124,158,.22) 22px 23px), repeating-linear-gradient(90deg, transparent 0 22px, rgba(86,124,158,.22) 22px 23px); }
 .matrix-motif::before { content: ""; position: absolute; inset: 22px 88px; background: var(--cyan); box-shadow: 66px 44px 0 var(--blue), -44px 110px 0 var(--blue); opacity: .8; }
+.research-card-sdr { color: var(--paper); background: #102738; border-color: #102738; }
+.sdr-motif { position: absolute; inset: 80px 35px auto; height: 220px; display: flex; align-items: center; justify-content: center; gap: 10px; opacity: .65; }
+.sdr-motif::before, .sdr-motif::after { content: ""; position: absolute; left: 0; right: 0; height: 1px; background: rgba(143,205,209,.24); }
+.sdr-motif::before { top: 28%; }.sdr-motif::after { bottom: 28%; }
+.sdr-motif span { width: 7px; border-radius: 4px; background: var(--cyan); box-shadow: 0 0 18px rgba(143,205,209,.25); }
+.sdr-motif span:nth-child(1) { height: 58px; }.sdr-motif span:nth-child(2) { height: 155px; }.sdr-motif span:nth-child(3) { height: 95px; }
 
 .about {
   padding: 130px 8vw;
